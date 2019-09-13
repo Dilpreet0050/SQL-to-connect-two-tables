@@ -1,0 +1,2 @@
+select * from students,programgroup
+where students.programgroupname=programgroup.programgroupname
